@@ -1,0 +1,2 @@
+Images are converted into an array of digits respective to the shade/depth of image.
+Random forest regression is used for data model prediction.
